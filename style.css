@@ -1,0 +1,65 @@
+.lijst{
+  background-color: gray;
+}
+.container{
+  height: 100%;
+  width: 100%;
+}
+.col-3{
+  height: 400px;
+}
+.input{
+  margin: 0 auto;
+  width: 100%;
+}
+.tasks{
+  height: 80%;
+  width: 100%;
+  background-color: 	#D3D3D3;
+}
+.oneTask{
+  width: 100%;
+  height: 35%;
+  padding-bottom: 2%;
+}
+.oneTaskO{
+      width: 100%;
+      height: 70%;
+}
+.delete{
+  width: 2%;
+  height: 2%;
+  background-color: red;
+  position: absolute;
+  opacity: 0.8;
+  z-index: 99;
+}
+.delete p{
+  margin: 0 auto;
+  text-align: center;
+}
+.contain{
+  height: 30%;
+        margin-bottom: 7%;
+
+}
+.onlist{
+  border: solid 1px black;
+  background-color: #f9f9f9;
+}
+.inputname[type="text"]{
+  font-size: 25px;
+}
+.inputname{
+  border: 0px;
+}
+input:focus{
+    /* outline: none; */
+
+}
+/* input{
+  border: 0px;
+} */
+.fl-r{
+  float: right;
+}
